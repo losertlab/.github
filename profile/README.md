@@ -2,7 +2,16 @@
 
 ![The most recent group photo from the lab website.](http://losertlab.ireap.umd.edu/images/Losert_Lab_Photo_2018.jpg)
 
-🙋‍♀️ Our research is on emergent dynamical properties of complex systems at the convergence of physics, materials science, and biology. 
+🙋‍♀️ We work on emergent dynamical properties of complex systems at the convergence of physics, materials science, and biology. 
+
+Our main research topics are
+
+- Granular dynamics
+- Biodynamics
+- Cancer dynamics
+- Crowd coding of the brain :brain:
+- Understanding and Controlling the Coupled Electrical, Chemical, & Mechanical Excitable Networks of Living Systems
+
 
 
 <!--
