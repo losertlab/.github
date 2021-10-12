@@ -6,11 +6,11 @@
 
 Our main research topics are
 
-- Granular dynamics :test_tube:
-- Biodynamics 🦠
-- Cancer dynamics :dna:
-- Crowd coding of the brain :brain:
-- Understanding and Controlling the Coupled Electrical, Chemical, & Mechanical Excitable Networks of Living Systems :microscope:
+- :test_tube: Granular dynamics
+- 🦠 Biodynamics
+- :dna: Cancer dynamics
+- :brain: Crowd coding of the brain
+- :microscope: Understanding and Controlling the Coupled Electrical, Chemical, & Mechanical Excitable Networks of Living Systems
 
 
 
