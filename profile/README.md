@@ -6,7 +6,7 @@
 
 Our main research topics are
 
-- :test_tube: Granular dynamics
+- ⏳ Granular dynamics
 - 🦠 Biodynamics
 - :dna: Cancer dynamics
 - :brain: Crowd coding of the brain
