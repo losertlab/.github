@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![The most recent group photo from the lab website.](http://losertlab.ireap.umd.edu/images/Losert_Lab_Photo_2018.jpg)
+![The most recent group photo from the lab website.](GroupPhoto-MostUpdated.jpg)
 
 🙋‍♀️ We work on emergent dynamical properties of complex systems at the convergence of physics, materials science, and biology. 
 
